@@ -1,0 +1,2 @@
+This is a stupid simple repository that contains notes and code from the Thorsten Ball books, writing an interpreter and compiler in Golang.
+This purely exists as an ultimate reference for me since I value these books to be the easiest knowledge.
